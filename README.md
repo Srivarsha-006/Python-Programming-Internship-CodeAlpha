@@ -88,7 +88,7 @@ A rule-based chatbot that responds to common greetings and predefined questions.
 
 **Domain:** Python Programming
 
-**Duration:** June 2026 - July 2026
+**Duration:** 20June 2026 - 20July 2026
 
 ---
 

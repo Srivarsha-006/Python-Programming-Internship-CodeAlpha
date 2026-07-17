@@ -1,4 +1,4 @@
-# Python-Programming-Internship-CodeAlpha
+# CodeAlpha-Python-Programming-Internship
 
 ## 📖 About This Repository
 
